@@ -1,0 +1,29 @@
+﻿<Window x:Class="NBA_Management_System.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NBA_Management_System"
+        mc:Ignorable="d"
+        Height="600" Width="830" Icon="/logo.jpg">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Image Source="/logo.jpg" HorizontalAlignment="Left" Margin="20,5,0,5" />
+
+            <TextBlock Text="{Binding ElementName=MainFrame, Path=Content.Title}"/>
+            <TextBlock Text="Система учета игр NBA" Foreground="Gray" FontSize="13" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="55,0,0,0"/>
+            <Button Content="Назад" HorizontalAlignment="Left" Margin="687,0,0,0" VerticalAlignment="Center" Name="BtnBackl" Click="BtnBackl_Click"/>
+        </Grid>
+        <Grid Grid.Row="1" >
+            <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
+        </Grid>
+        <Grid Grid.Row="2">
+        </Grid>
+    </Grid>
+</Window>

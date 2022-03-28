@@ -1,0 +1,68 @@
+﻿<Page x:Class="NBA_Management_System.PageAddPlayer"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NBA_Management_System"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageAddPlayer">
+
+    <Grid Background="White">
+        <StackPanel  HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="40">
+                <Border Width="170" Height="170" BorderBrush="{StaticResource AccentColor}" CornerRadius="5" BorderThickness="1">
+                    <Image Source="{Binding Player.Img}" x:Name="ImagePlayer" Width="170" Height="170"></Image>
+                </Border>
+                <Button x:Name="AddPhoto" Width="150" Margin="0,10,0,0">Добавить фото</Button>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Right" Margin="0,10,50,0">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="ФИО" Width="140" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbFIO" Width="210" FontSize="17" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Дата рождения" Width="140" FontSize="17" Margin="5"/>
+                    <DatePicker x:Name="dpBirth" Width="210" FontSize="17" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Вес" Width="140" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbWeight" Width="210" FontSize="17" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Рост" Width="140" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbHeight" Width="210" FontSize="17" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Место обучения" Width="140" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbCollege" Width="210" FontSize="17" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Страна" Width="140" FontSize="17" Margin="5"/>
+                    <ComboBox x:Name="cbCountry" Width="210" FontSize="17" Margin="5" DisplayMemberPath="CountryName"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Дата вступления" Width="140" FontSize="17" Margin="5"/>
+                    <DatePicker x:Name="dpJoin" Width="210" FontSize="17" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Позиция" Width="140" FontSize="17" Margin="5"/>
+                    <ComboBox x:Name="cbPosition" Width="210" FontSize="17" Margin="5" DisplayMemberPath="Name"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="№ на футболке" Width="140" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbNumShirt" Width="210" FontSize="17" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Зарплата" Width="140" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbSalary" Width="210" FontSize="17" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Команда" Width="140" FontSize="17" Margin="5"/>
+                    <ComboBox x:Name="cbTeam" Width="210" FontSize="17" Margin="5" DisplayMemberPath="TeamName"/>
+                </StackPanel>
+                <Button x:Name="btnSave" Content="Сохранить"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

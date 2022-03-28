@@ -1,0 +1,43 @@
+﻿<Page x:Class="NBA_Management_System.PlayersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NBA_Management_System"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PlayersPage">
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <StackPanel x:Name="sp" Grid.Row="0" Orientation="Horizontal" Height="25" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Команды" Width="80" VerticalAlignment="Center" FontSize="15"/>
+            <ComboBox x:Name="cbTeam" Width="200" VerticalAlignment="Center" FontSize="15" DisplayMemberPath="TeamName"/>
+            <TextBlock Text="Игроки" Width="80" VerticalAlignment="Center" FontSize="15" TextAlignment="Center"/>
+            <TextBox x:Name="tbSearchPlayer" Width="200" FontSize="17"/>
+        </StackPanel>
+        <DataGrid CanUserAddRows="False" x:Name="dgPlayer" Grid.Row="1" Height="300" Width="740" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Binding="{Binding ShirtNumber}" Width="50"/>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding LastName}" Width="*"/>
+                <DataGridTextColumn Header="Отчество" Binding="{Binding FirstName}" Width="*"/>
+                <DataGridTextColumn Header="Пол" Binding="{Binding Gender}" Width="*"/>
+                <DataGridTextColumn Header="Рост" Binding="{Binding Height}" Width="40"/>
+                <DataGridTextColumn Header="Вес" Binding="{Binding Weight}" Width="45"/>
+                <DataGridTextColumn Header="Почта" Binding="{Binding Email}" Width="*"/>
+                <DataGridTextColumn Header="Команда" Binding="{Binding TeamId}" Width="*"/>
+                <DataGridTextColumn Header="Страна" Binding="{Binding CountryCode}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="btnAdd" Content="Добавить" Margin="5" />
+            <Button x:Name="btnEdit" Content="Изменить" Margin="5"/>
+            <Button x:Name="btnDelete" Content="Удалить" Margin="5"/>
+            <Button x:Name="btnDrop" Content="Сброс поиска" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Page>

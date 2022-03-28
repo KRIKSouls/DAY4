@@ -1,0 +1,48 @@
+﻿<Page x:Class="NBA_Management_System.PageAddTeam"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NBA_Management_System"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,80,0" Orientation="Horizontal">
+            <StackPanel Margin="0,0,30,0" VerticalAlignment="Center">
+                <Border Width="170" Height="170" BorderBrush="{StaticResource AccentColor}" CornerRadius="5" BorderThickness="1">
+                    <Image Source="{Binding Logo}" x:Name="ImageTeam" Width="170" Height="170"></Image>
+                </Border>
+                <Button x:Name="AddPhoto" Width="150" Margin="0,10,0,0" Click="AddPhoto_Click">Добавить фото</Button>
+            </StackPanel>
+
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Название команды" Width="160" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbNameTeam" Width="200" Margin="5" FontSize="17" PreviewTextInput="tbNameTeam_PreviewTextInput"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Конференция" Width="160" FontSize="17" Margin="5"/>
+                    <ComboBox x:Name="cbConference" Width="200" Margin="5" FontSize="17" SelectionChanged="cbConference_SelectionChanged" DisplayMemberPath="Name"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Дивизион" Width="160" FontSize="17" Margin="5"/>
+                    <ComboBox x:Name="cbDivision" Width="200" Margin="5" FontSize="17" DisplayMemberPath="Name"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Тренер" Width="160" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbCoach" Width="200" Margin="5" FontSize="17" PreviewTextInput="tbCoach_PreviewTextInput"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Аббревиатура" Width="160" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbAbbr" Width="200" Margin="5" FontSize="17" PreviewTextInput="tbAbbr_PreviewTextInput"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Стадион" Width="160" FontSize="17" Margin="5"/>
+                    <TextBox x:Name="tbStadion" Width="200" Margin="5" FontSize="17" PreviewTextInput="tbStadion_PreviewTextInput"/>
+                </StackPanel>
+                <Button x:Name="btnOK" Content="Ок" Width="150" Margin="5" FontSize="16" Click="btnOK_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,100 @@
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\bin\Debug\NBA Management System.exe.config
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\bin\Debug\NBA Management System.exe
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\bin\Debug\NBA Management System.pdb
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System.g.resources
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA_Management_System.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System.exe
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System.pdb
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\Window1.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\Window1.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\TeamsMain.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\VisitorMenu.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\PageAddTeam.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System_Content.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\PageAddTeam.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\TeamsMain.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\VisitorMenu.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.CopyComplete
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\PageAddTeam.g.cs
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\TeamsMain.g.cs
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\VisitorMenu.g.cs
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\Window1.g.cs
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\App.g.cs
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System_Content.g.cs
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System_MarkupCompile.cache
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System_MarkupCompile.lref
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.exe
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.pdb
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\bin\Debug\NBA Management System.exe.config
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\bin\Debug\NBA Management System.exe
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\bin\Debug\NBA Management System.pdb
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\App.baml
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\PageAddTeam.baml
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\TeamsMain.baml
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\VisitorMenu.baml
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\Window1.baml
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.g.resources
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA_Management_System.Properties.Resources.resources
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.GenerateResource.cache
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Downloads\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\bin\Debug\NBA Management System.exe.config
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\bin\Debug\NBA Management System.exe
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\bin\Debug\NBA Management System.pdb
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\PageAddTeam.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\TeamsMain.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\VisitorMenu.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\Window1.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System_Content.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\PageAddTeam.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\TeamsMain.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\VisitorMenu.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\Window1.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.g.resources
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA_Management_System.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.exe
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\NBA Management System.pdb
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\PlayersPage.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\PlayersPage.baml
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\PageAddPlayer.g.cs
+C:\Users\Пользователь\Desktop\NBA Management System\NBA Management System\NBA Management System\obj\Debug\PageAddPlayer.baml

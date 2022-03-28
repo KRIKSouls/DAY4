@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b34d956a96e747e99781c4536fe9ee92" Name="Diagram1">
+        <EntityTypeShape EntityType="BasketballSystemModel.ActionType" Width="1.5" PointX="10.5" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.Conference" Width="1.5" PointX="0.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.Country" Width="1.5" PointX="5.25" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.Division" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.Match" Width="1.5" PointX="7.5" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.MatchLog" Width="1.5" PointX="12.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.MatchType" Width="1.5" PointX="5.25" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.Player" Width="1.5" PointX="7.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.PlayerInTeam" Width="1.5" PointX="10.5" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.PlayerStatistics" Width="1.5" PointX="9.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.PositionName" Width="1.5" PointX="9.75" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.PostSeason" Width="1.5" PointX="7.5" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.Role" Width="1.5" PointX="11.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.Season" Width="1.5" PointX="5.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.Status" Width="1.5" PointX="5.25" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.Team" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="BasketballSystemModel.User" Width="1.5" PointX="14" PointY="2" IsExpanded="true" />
+        <AssociationConnector Association="BasketballSystemModel.FK__MatchLog__Action__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__Division__Confer__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK_Player_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK_Team_Division" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__Match__MatchType__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__Match__SeasonId__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__Match__StatusId__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__MatchLog__MatchI__693CA210" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__PlayerSta__Match__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK_Match_Team2" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK_Match_Team3" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__MatchLog__Player__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__MatchLog__TeamId__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__PlayerInT__Playe__656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__PlayerSta__Playe__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__PlayerInT__Seaso__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__PlayerInT__TeamI__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__PlayerSta__TeamI__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__PostSeaso__Seaso__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__PostSeaso__TeamI__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.FK__User__RoleId__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="BasketballSystemModel.PositionOfPlayer" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
